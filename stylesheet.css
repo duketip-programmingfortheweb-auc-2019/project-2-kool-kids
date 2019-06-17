@@ -1,0 +1,149 @@
+p.fontstyle {
+    font-size: 150%;
+    text-align: center;
+
+  }
+  #header3{
+    height:400px
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Create three equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 10px; 
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    display: table;
+    clear: both;
+  }  
+ 
+
+.nav-link {
+    font-size: 150%;
+    color: #C9CFCD;
+    padding: 7px;
+}
+
+.inline{
+    display: inline-block;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 150%;
+    text-align: center; 
+}
+
+.nav-link:hover {
+    color: #898989;
+    transition: 3s, ease;
+    fill: #898989;
+}
+.nav-item {
+    border: 2px solid;
+    padding: 5px;
+    border-color: white;
+    margin-left: 20px;
+}
+#fat {
+    text-align: center;
+    margin-top: 10px;
+    height: 200px;
+}
+/* .Description {
+font-size: 200%;
+/* margin-bottom: auto; 
+} */
+
+.page1 {
+  background-color: #2E2E2E;
+  color: white;
+  width: 100%;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  
+  
+}
+#page1{
+    font-size: 125%;
+    text-align: center;
+    font-family: "Times New Roman";
+    color: white;
+
+}
+#letitgo{
+  font-size:150%;
+  text-align: center;
+  font-family: "Times New Roman";
+  color: whitesmoke;
+  background-color:#646464;
+  margin-bottom: 0%;
+}
+hr.new4 {
+  border: 0px solid black;
+  margin-top:0px;
+  margin-bottom:0px;
+}
+
+.fixed_font{
+  font-family:'Times New Roman';
+  margin-top:0px;
+  margin-bottom:0px;
+}
+.lineheight {
+  line-height: 1.4em;
+  margin-bottom: 1.5em
+  }
+
+.page2 {
+  background-color: #424242;
+  color: white;
+}
+
+.page3 {
+  background-color: #585858;
+  color: white;
+}
+.c {
+margin-top: 0px;
+margin-bottom:0px;
+}
+
+#ihadnochoice {
+  margin-bottom:0px;
+}
+
+.logoimg {
+  opacity: 5%;
+}
+.footstyle {
+  background-color: #343a40;
+  color: #C9CFCD;
+  height:50px;
+  
+}
+.CSS{
+  height: 25%;
+  width: 25%;
+}
+* {
+  box-sizing: border-box;
+}
+
+
+.nav-pills .nav-link.active{
+  color: #C9CFCD;
+  background-color:#343A40; 
+}
+#joke{
+  background-image:"https://cdn.pixabay.com/photo/2015/04/04/19/13/nine-706889_960_720.jpg";
+}
+
+#description {
+  margin-bottom: 0%;
+  font-family: "Times New Roman"
+}
